@@ -102,6 +102,3 @@ sudo deauther --mode=deauth_all --interface=wlan0 --access-point=FF:FF:FF:FF:FF:
 sudo deauther --mode=deauth_client --interface=wlan0 --access-point=FF:FF:FF:FF:FF:FF --client=FF:FF:FF:FF:FF:FF --number=10000
 ```
 
-## License
-
-This tool is licensed under the [MIT License](https://github.com/ezhil56x/deauther/blob/main/LICENSE)
